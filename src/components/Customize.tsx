@@ -27,7 +27,7 @@ export default function Customized() {
             plugins using the Extension API.`}
           </p>
            <button className="bg-[#4F9CF9] px-6 py-2 md:px-6 md:py-4 rounded-md text-white font-semibold flex items-center gap-2 hover:shadow-lg">
-              Let's Go
+           Let&apos;s Go
               <FaArrowRight />
            </button>
         </div>
